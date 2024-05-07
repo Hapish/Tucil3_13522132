@@ -21,5 +21,5 @@
 - Input angka yang merepresentasikan algoritma yang digunakan
 - Program mengeluarkan output sesuai dengan input yang diberikan
 
-## Identitaas
+## Identitas
 Dibuat oleh Hafizh Hananta Akbari (13522132)

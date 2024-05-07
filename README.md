@@ -9,6 +9,7 @@
 
 ## Cara Kompilasi 
 - Buka terminal atau command prompt
+- Ketik cd dan pergi ke direktori tempat penyimpanan program
 - Ketik javac Main.java Algorithms.java
 - Tekan tombol Enter
 
